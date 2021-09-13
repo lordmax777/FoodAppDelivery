@@ -32,12 +32,12 @@
 <a href="https://ibb.co/vv5JcX5"><img src="https://i.ibb.co/JFLzc3L/Screenshot-1631500038.png" alt="Screenshot-1631500038" border="0" width=100></a>
 ## Zoom Page
 
-### Get Started
+## Get Started
 # cupertino_icons: ^1.0.3
 <br>
-### global_bottom_navigation_bar: ^0.0.8
+## global_bottom_navigation_bar: ^0.0.8
 <br>
-### firebase:
+## firebase:
 <br>
 firebase_core: ^1.6.0
 <br>
