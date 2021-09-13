@@ -33,31 +33,32 @@
 ## Zoom Page
 
 ## Get Started
-# cupertino_icons: ^1.0.3
 <br>
-# global_bottom_navigation_bar: ^0.0.8
+--> cupertino_icons: ^1.0.3
 <br>
-# firebase:
+--> global_bottom_navigation_bar: ^0.0.8
 <br>
-# firebase_core: ^1.6.0
+--> firebase:
 <br>
-# firebase_storage: ^10.0.3
+--> firebase_core: ^1.6.0
 <br>
-# cloud_firestore: ^2.5.2
+--> firebase_storage: ^10.0.3
 <br>
-# firebase_auth: ^3.1.1
+--> cloud_firestore: ^2.5.2
 <br>
-# font_awesome_flutter: ^9.1.0
+--> firebase_auth: ^3.1.1
 <br>
-# flutter_zoom_drawer:
+--> font_awesome_flutter: ^9.1.0
 <br>
-# flutter_slidable: ^0.6.0
+--> flutter_zoom_drawer:
 <br>
-# provider: ^6.0.0
+--> flutter_slidable: ^0.6.0
 <br>
-# connectivity: ^3.0.6
+--> provider: ^6.0.0
 <br>
-# open_settings: ^2.0.2
+--> connectivity: ^3.0.6
+<br>
+--> open_settings: ^2.0.2
 <br>
 
 ## Install Peckage 
