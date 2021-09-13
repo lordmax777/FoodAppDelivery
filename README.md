@@ -35,30 +35,31 @@
 ## Get Started
 # cupertino_icons: ^1.0.3
 <br>
-## global_bottom_navigation_bar: ^0.0.8
+# global_bottom_navigation_bar: ^0.0.8
 <br>
-## firebase:
+# firebase:
 <br>
-firebase_core: ^1.6.0
+# firebase_core: ^1.6.0
 <br>
-firebase_storage: ^10.0.3
+# firebase_storage: ^10.0.3
 <br>
-cloud_firestore: ^2.5.2
+# cloud_firestore: ^2.5.2
 <br>
-firebase_auth: ^3.1.1
+# firebase_auth: ^3.1.1
 <br>
-font_awesome_flutter: ^9.1.0
+# font_awesome_flutter: ^9.1.0
 <br>
-flutter_zoom_drawer:
+# flutter_zoom_drawer:
 <br>
-flutter_slidable: ^0.6.0
+# flutter_slidable: ^0.6.0
 <br>
-provider: ^6.0.0
+# provider: ^6.0.0
 <br>
-connectivity: ^3.0.6
+# connectivity: ^3.0.6
 <br>
-open_settings: ^2.0.2
+# open_settings: ^2.0.2
 <br>
+
 ## Install Peckage 
 
 A few resources to get you started if this is your first Flutter project:
